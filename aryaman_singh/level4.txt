@@ -1,2 +1,0 @@
-This was very similar to something I had done in python before, using * to go through all files starting with certain characters. So just do
-file ./.file*.

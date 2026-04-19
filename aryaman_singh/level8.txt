@@ -1,1 +1,0 @@
-Just had to the learn the uniq command after using sort, also this is the first use of the pipe operator : sort data.txt | uniq -u

@@ -1,1 +1,0 @@
-This, again was the first use of a new command, strings(to extract the human readable lines), paired with grep using pipe, we get : strings data.txt | grep "=="
